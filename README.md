@@ -1,6 +1,6 @@
 # 🔢 Linear Algebra for Machine Learning — Notes
 
-> Notes based on [GeeksforGeeks — Linear Algebra Operations for Machine Learning](https://www.geeksforgeeks.org/machine-learning/ml-linear-algebra-operations/)
+
 >
 > Linear algebra is the **core mathematical foundation** for machine learning.
 > Most datasets and models are represented using vectors and matrices,
